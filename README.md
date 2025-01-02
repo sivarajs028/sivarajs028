@@ -110,10 +110,9 @@
   <img src="https://img.shields.io/static/v1?message=Tinkercad&logo=tinkercad&label=&color=FF6F00&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="Tinkercad logo" />
 </a>
 
----
-
 ## 🚀 Projects
 - Completed a **Full-Stack Project**, combining software and electronics skills.
+- https://github.com/sivrajs028/Book_Recomendation_Algorithm).
 
 ---
 
