@@ -111,8 +111,8 @@
 </a>
 
 ## 🚀 Projects
-- Completed a **Full-Stack Project**, combining software and electronics skills.
-- https://github.com/sivrajs028/Book_Recomendation_Algorithm).
+- Completed a **Full-Stack Project**.
+- https://github.com/sivarajs028/Book_Recomendation_Algorithm.git
 
 ---
 
