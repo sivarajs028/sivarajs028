@@ -111,7 +111,8 @@
 </a>
 
 ## 🚀 Projects
-- Completed a **Full-Stack Project**.
+- Completed a **A Book Recommendation Website Project**.
+This is a full-stack web application that provides personalized book recommendations using a content-based recommendation system. The frontend is developed using React, and the backend is built with Flask, offering a seamless user experience and real-time book suggestions based on user preferences.
 - https://github.com/sivarajs028/Book_Recomendation_Algorithm.git
 
 ---
