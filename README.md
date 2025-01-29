@@ -5,7 +5,7 @@
 🌐 Social:
 ---
 <div align="left">
-  <a href="https://www.instagram.com/sivarask2/" target="_blank">
+  <a href="https://www.instagram.com/sivarajsk2/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="Instagram logo" />
 </a>
 <a href="https://www.linkedin.com/in/sivarajs28/" target="_blank">
